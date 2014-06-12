@@ -1,0 +1,12 @@
+1. Made new repo in github
+
+2. Used "git init" to create a blank repo in our projects folder 
+
+3. Used "git add ." to add all the files to our commit 
+
+4. Used "git commit -m 'First Commit'" to create the commit
+
+5.Added github's url to our repo with the "git reomte add"
+code from the github website 
+
+6. Used "git push origin master" to spend our one and only commit to gihub
